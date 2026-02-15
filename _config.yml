@@ -1,0 +1,12 @@
+title: blog
+description: Een eenvoudige Jekyll blog
+
+# Build settings
+markdown: kramdown
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
