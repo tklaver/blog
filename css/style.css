@@ -414,22 +414,6 @@ blockquote {
     color: var(--accent);
 }
 
-/* Responsive */
-@media (max-width: 600px) {
-    body {
-        font-size: 100%;
-    }
-    
-    header, main, footer {
-        margin: 1em auto;
-        padding: 0 0.5em;
-    }
-    
-    header nav li a {
-        margin-right: 0.5em;
-    }
-}
-
 footer {
   margin-top: 2rem;
   padding-top: 1rem;
