@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Obsessions
 date: 2024-10-18
 ---
