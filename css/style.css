@@ -127,6 +127,12 @@ li {
   list-style-type: none;
 }
 
+recent-posts-date {
+  font-variant: all-petite-caps;
+  font-family: monospace;
+  padding-right: 4px;
+}
+
 /* Typography and Code */
 code {
   padding: 0.2em 0.3em;
