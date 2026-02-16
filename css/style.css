@@ -5,18 +5,20 @@
 /* CSS Variables and Root Styles */
 :root {
   --foreground: #212529;
-  --background: #f8f9fa;
-  --link: #0b7285;
-  --accent: #868e96;
-}
-
+  --article-background: #e7f5ff;
+  --article-background-shadow: 0px 6px 0px 0px #1864ab;
+  --background: #FAF4EC;
+  --link: #276983;
+  --accent: #364fc7;
 @media (prefers-color-scheme: dark) {
   :root {
-    --foreground: #eee;
-    --background: #222;
-    --link: #99e9f2;
-    --accent: #ced4da;
-  }
+    --foreground: #DEE2E6;
+    --article-background: #212529;
+    --article-background-shadow: 0px;
+    --background: #10252F;
+    --link: #DEE2E6;
+    --accent: #DEE2E6;
+  }  }
 }
 
 /* Reset and Base Styles */
