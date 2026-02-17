@@ -2,9 +2,8 @@
   <nav>
     <h3>Pages</h3>
     <ul>
-      {% assign pages = site.pages | where_exp: "item", "item.url != '/'" | sort: "title" %}
-      {% for page in pages %}
-        {% if page.title %}
+      {% for page in site.pages %}
+        {% if page.dir == '/pages/' %}
           <li><a href="{{ page.url }}">{{ page.title }}</a></li>
         {% endif %}
       {% endfor %}
