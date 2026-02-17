@@ -3,9 +3,7 @@
     <h3>Pages</h3>
     <ul>
       {% for page in site.pages %}
-        {% if page.dir == '/pages/' %}
-          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-        {% endif %}
+        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
       {% endfor %}
     </ul>
   </nav>

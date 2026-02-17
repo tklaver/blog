@@ -10,3 +10,10 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+      # Collections
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:name.html
+    layout: page
