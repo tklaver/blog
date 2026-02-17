@@ -6,6 +6,6 @@ title: "Toms blog"
 # Toms blog
 
 {% for post in site.posts %}
-  [## {{ post.title }}]({{ post.url }})
-  {{ post.date | date: "%B %d, %Y" }}
+  <h2>[{{ post.title }}]({{ post.url }})</h2>
+  <p>{{ post.date | date: "%B %d, %Y" }}</p>
 {% endfor %}
