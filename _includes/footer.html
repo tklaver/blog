@@ -3,8 +3,8 @@
     <h3>Pages</h3>
     <ul>
             <li><a href="/">Home</a></li>
-      {% for page in site.pages| sort_by: "title" %}
-        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      {% for page in site.pages | sort: "title" %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
       {% endfor %}
     </ul>
   </nav>
