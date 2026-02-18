@@ -25,15 +25,8 @@ body {
   color: var(--foreground);
   background: var(--background);
   padding: 0 1.25rem;
-}
-
-main {
   max-width: 65ch;
   margin: 0 auto;
-}
-
-article {
-  margin: 2rem 0;
 }
 
 img {
@@ -260,21 +253,13 @@ article {
   body {
     padding: 0 2rem;
   }
-
-  article {
-    margin: 2.5rem 0;
-  }
 }
 
 @media (min-width: 1200px) {
   body {
     padding: 0 3rem;
-  }
-
-  article {
-    margin: 3rem 0;
-  }
 }
+} 
 
 /* OPTIONAL LAYOUT TWEAK (DISABLED)
 @media (min-width:480pt) {
