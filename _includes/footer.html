@@ -3,7 +3,8 @@
     <h3>Pages</h3>
     <ul>
             <li><a href="/">Home</a></li>
-      {% for page in site.pages | sort: "page.title" %}
+      {% assign sorted = site.pages | sort: 'title' %}
+      {% for page in sorted %}
       <li><a href="{{ page.url }}">{{ page.title }}</a></li>
       {% endfor %}
     </ul>
