@@ -1,20 +1,6 @@
 ---
 layout: default
 ---
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
-  </head>
-  <body>
-    {% include header.html %}
-    <aside class="post-info">
-      <span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span>
-    </aside>
-    <main>
-      {{ content }}
-    </main>
-    {% include footer.html %}
-  </body>
-</html>
+<aside class="post-info">
+  <span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span>
+</aside>
