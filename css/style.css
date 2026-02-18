@@ -24,7 +24,8 @@ body {
   font-family: Georgia, "Times New Roman", serif;
   color: var(--foreground);
   background: var(--background);
-  padding: 0 1.25rem;
+      font-size: 1.125rem;
+      padding: 0 1rem;
   max-width: 65ch;
   margin: 0 auto;
 }
@@ -65,7 +66,7 @@ h6 {
 }
 
 h1 {
-  font-size: 2rem;
+      font-size: 1.75rem;
   margin: 0 0 0.5em;
 }
 
@@ -84,7 +85,7 @@ h6 {
 
 p,
 li {
-  line-height: 1.6;
+      line-height: 1.7;
 }
 
 article p {
@@ -257,6 +258,10 @@ article {
 @media (min-width: 768px) {
   body {
     padding: 0 2rem;
+  }
+  p,
+  li {
+    line-height: 1.6;
   }
 }
 
