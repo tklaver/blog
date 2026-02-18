@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2024-09-04 10:50
-tags: ipod, minimalism
+date: 2024-09-04
 title: "An iPod and no recommendations are all I have wanted for my listening habits in 2024"
 ---
 
