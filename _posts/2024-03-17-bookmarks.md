@@ -1,10 +1,9 @@
 ---
-Date: 2024-03-17 20:38
-Tags: links
-Title: Week 11 2024 Bookmarks
+layout: post
+date: 2024-03-17 20:38
+tags: links
+title: Week 11 2024 Bookmarks
 ---
-
-# Week 11 2024 Bookmarks
 
 ## 📠 Apps
 * ⭐️ [Solid Calendar](https://apps.apple.com/nl/app/solid-calendar/id6448245807) - Underrated new calendar app. I love the Timeline view that looks like what Google Calendar uses.

@@ -1,9 +1,9 @@
 ---
-Date: 2024-09-04 10:50
-Tags: ipod, minimalism
+layout: post
+date: 2024-09-04 10:50
+tags: ipod, minimalism
+title: "An iPod and no recommendations are all I have wanted for my listening habits in 2024"
 ---
-
-# An iPod and no recommendations are all I have wanted for my listening habits in 2024
 
 I said goodbye to streaming my music with Apple Music because the service sucked and I was listening to the same stuff all the time anyway. I stayed subscribed for the longest time because Apple, like a kind of Stockholm syndrome where I just wanted to believe the apps were great and they picked the right music for me. I'm not saying I have great memory, but I can only remember a few songs I discovered that I really liked.
 

@@ -1,10 +1,9 @@
 ---
-Date: 2024-07-17 06:40
-Title: I suck at CSS
-Tags: meta
+layout: post
+date: 2024-07-17 06:40
+title: "I suck at CSS"
+tags: meta
 ---
-
-# I suck at CSS
 
 I still haven't found a design that works for me. I'm using [opencolor](https://yeun.github.io/open-color/) because I need _some_ kind of direction of what works together. Now it's up to fonts and the right kind of spacing between elements. I don't even know where to begin. When should I use margins? And paddings? When do I use classes and IDs?
 

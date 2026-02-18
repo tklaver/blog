@@ -1,8 +1,8 @@
 ---
-Date: Thu, 04 Jan 2024 15:23:33 +0100
+layout: post
+date: 2024-01-04
+title: "I can’t commit because there’s always a better book around"
 ---
-
-# I can’t commit because there’s always a better book around
 
 Most of my books are at a 2–4% finish rate.
 
